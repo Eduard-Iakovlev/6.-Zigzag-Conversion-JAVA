@@ -15,6 +15,7 @@ Example 1:
 
 Input: s = "PAYPALISHIRING", numRows = 3
 Output: "PAHNAPLSIIGYIR"
+
 Example 2:
 
 Input: s = "PAYPALISHIRING", numRows = 4
@@ -56,6 +57,7 @@ Y   I   R
 
 Ввод: s = «PAYPALISHIRING», numRows = 3
 Вывод: «PAHNAPLSIIGYIR»
+
 Пример 2:
 
 Ввод: s = «PAYPALISHIRING», numRows = 4
